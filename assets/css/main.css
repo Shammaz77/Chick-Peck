@@ -28,7 +28,10 @@ Don't forgot your feedback or ratings.
     max-width: 1170px;
   }
 }
+.footerlogo{
+  width: 100px;
 
+}
 /* ====end CSS Variable=== */
 .sidebarlogo{
   width: 100px;
