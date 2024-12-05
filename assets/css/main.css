@@ -1,7 +1,7 @@
 /*========================================
 Author Name:   Codebasket
 Template Type: Restaurant Management
-Brand Color:   #cc3333, #79a1bb, #FBB217
+Brand Color:   #E2000F, #79a1bb, #FBB217
 Icon:          Ico font
 Text font:     Lobster Two, Roboto
 Version:       v1.0.01
@@ -103,7 +103,7 @@ img {
 
 .custom-btn {
   outline: none;
-  background: #cc3333;
+  background: #E2000F;
   color: #fff;
   padding: 10px 25px;
   transition: 0.3s;
@@ -118,14 +118,14 @@ img {
 .custom-btn-alt {
   outline: none;
   background: #fff;
-  color: #cc3333;
+  color: #E2000F;
   padding: 10px 25px;
   transition: 0.3s;
   display: inline-block;
 }
 
 .custom-btn-alt:hover {
-  background: #cc3333;
+  background: #E2000F;
   color: #fff;
 }
 
@@ -212,7 +212,7 @@ img {
   animation: spinner 1s infinite linear;
   border-radius: 50%;  
   border: 10px solid rgba(0, 0, 0, 0.2);
-  border-top-color: #cc3333; 
+  border-top-color: #E2000F; 
   height: 6em;  
   margin: 0 auto 3.5em auto; 
   width: 6em;
@@ -266,7 +266,7 @@ to {
 
 .custom-btn-light {
   outline: none;
-  background: #cc3333;
+  background: #E2000F;
   color: #fff;
   padding: 10px 35px;
   transition: 0.3s;
@@ -276,7 +276,7 @@ to {
 
 .custom-btn-light:hover {
   background: #fff;
-  color: #cc3333;
+  color: #E2000F;
 }
 
 .header.header-1.navbar-fixed {
@@ -363,7 +363,7 @@ ul.right-social-ul li {
 }
 
 .share-link:hover {
-  color: #cc3333;
+  color: #E2000F;
   text-decoration: revert;
 }
 .social-sec-2 .share-link {
@@ -424,7 +424,7 @@ ul.right-social-ul li {
 .banner-1 .text-inner .sm-title {
   font-size: 20px;
   font-family: "Lobster Two", cursive;
-  color: #cc3333;
+  color: #E2000F;
   line-height: 1;
   
 }
@@ -487,7 +487,7 @@ ul.right-social-ul li {
 }
 .banner.banner-1 .banner-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active {
   opacity: 1;
-  background: #cc3333;
+  background: #E2000F;
 }
 .banner-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active {
   background: #79a1bb;
@@ -595,11 +595,11 @@ ul.right-social-ul li {
 }
 
 .feature-card:hover .feature-name a{
-  color: #cc3333;
+  color: #E2000F;
 }
 
 .feature-card:hover .discover-bt {
-  color: #cc3333;
+  color: #E2000F;
 }
 
 .feature-card:hover .discover-bt:before {
@@ -630,7 +630,7 @@ ul.right-social-ul li {
 .form-control:focus {
   color: #212529;
   background-color: #fff;
-  border-color: #cc3333;
+  border-color: #E2000F;
   outline: 0;
   box-shadow: none;
 }
@@ -738,7 +738,7 @@ img.cat-icon {
   color: #666;
 }
 .cat-menu-li:hover span {
-  color: #cc3333;
+  color: #E2000F;
 }
 .product-2  .cat-menu-li span {
   color: #79a1bb;
@@ -747,7 +747,7 @@ img.cat-icon {
   color: #79a1bb;
 }
 .cat-menu-li.mixitup-control-active span {
-  color: #cc3333;
+  color: #E2000F;
 }
 .product-2 .cat-menu-li.mixitup-control-active span {
   color: #79a1bb;
@@ -805,7 +805,7 @@ img.cat-icon {
 }
 
 .delivery {
-  color: #cc3333;
+  color: #E2000F;
   background-position: right center;
 }
 .pb-70 {
@@ -825,7 +825,7 @@ img.cat-icon {
 
 .product-price {
   position: absolute;
-  background: #cc3333;
+  background: #E2000F;
   color: #fff;
   padding: 3px 15px;
   top: 10px;
@@ -857,11 +857,11 @@ img.cat-icon {
 .sm-custom-btn.wishlist-btn {
   background: none;
   border: 1px solid #ddd;
-  color: #cc3333;
+  color: #E2000F;
 }
 
 .product-card:hover .cart-btn {
-  background: #cc3333;
+  background: #E2000F;
 }
 
 /* ==================app section ============= */
@@ -946,8 +946,8 @@ img.app-one {
 
 
 .note-li:hover {
-  color: #cc3333;
-  border-color: #cc3333;
+  color: #E2000F;
+  border-color: #E2000F;
 }
 
 .note-footer-text {
@@ -956,7 +956,7 @@ img.app-one {
   color: #292929;
 } 
 .note-footer-text:hover { 
-  color: #cc3333;
+  color: #E2000F;
 }
 
 /* ====================================================
@@ -1018,11 +1018,11 @@ img.app-one {
 }
 
 .member-name:hover {
-  color: #cc3333;
+  color: #E2000F;
 }
 
 .team-card:hover::after {
-  background: #cc3333;
+  background: #E2000F;
 }
 
 
@@ -1046,7 +1046,7 @@ img.app-one {
   bottom: 10px;
 }
 .customer-1  .review-pagination .swiper-pagination-bullet-active {
-  background: #cc3333;
+  background: #E2000F;
 }
 .customer-1 .review-pagination {
   margin-bottom: 41px;
@@ -1090,8 +1090,8 @@ img.app-one {
 }
 
 .view-more:hover {
-  color: #cc3333;
-  border-color: #cc3333;
+  color: #E2000F;
+  border-color: #E2000F;
 }
 
 .latest-blog-2 .view-more:hover {
@@ -1120,7 +1120,7 @@ img.app-one {
 }
 
 .delivery-text {
-  color: #cc3333;
+  color: #E2000F;
 }
 .cb-category-card img {
 	width: 100%;
@@ -1194,14 +1194,14 @@ ul.right-social-ul li {
 .sm-title {
   font-size: 20px;
   font-family: "Lobster Two", cursive;
-  color: #cc3333;
+  color: #E2000F;
   font-weight: 500;
   display: inline-block;
   margin-bottom: 10px;
 }
 
 .banner-title a {
-  color: #cc3333;
+  color: #E2000F;
   text-decoration: underline;
 }
 
@@ -1217,7 +1217,7 @@ ul.right-social-ul li {
 .video-btn {
   width: 45px;
   height: 45px;
-  background: #cc3333;
+  background: #E2000F;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -1255,7 +1255,7 @@ ul.right-social-ul li {
   top: 50%;
   width: 45px;
   height: 45px;
-  background: #cc3333;
+  background: #E2000F;
   border-radius: 50%;
   animation: pulse-border 1500ms ease-out infinite;
 }
@@ -1325,7 +1325,7 @@ ul.right-social-ul li {
 }
 
 .video-overlay-close:hover {
-  color: #cc3333;
+  color: #E2000F;
 }
 
 .video-btn span {
@@ -1360,7 +1360,7 @@ ul.right-social-ul li {
   background: #292929;
 }
 .sec-sm-title {
-  color: #cc3333;
+  color: #E2000F;
   text-transform: capitalize;
   font-family: "Lobster Two", cursive;
   font-size: 20px;
@@ -1445,7 +1445,7 @@ ul.about-ul {
 
 .status-product {
   display: inline-block;
-  background: #cc3333;
+  background: #E2000F;
   padding: 0px 10px;
   color: #fff;
   position: absolute;
@@ -1501,7 +1501,7 @@ ul.cat-menu {
   margin-bottom: 10px;
 }
 .product-name:hover {
-  color: #cc3333;
+  color: #E2000F;
 }
 .header-2 .product-name:hover {
   color: #79a1bb;
@@ -1551,9 +1551,9 @@ ul.rating li span.unrated {
   margin-top: 50px;
 }
 .shop-btn:hover {
-  background: #cc3333;
+  background: #E2000F;
   color: #fff;
-  border-color: #cc3333;
+  border-color: #E2000F;
 }
 .product-2 .shop-btn:hover {
   background: #79a1bb;
@@ -1611,10 +1611,10 @@ ul.rating li span.unrated {
 
 .pricing-card {
   text-align: center;
-  background: #cc3333;
+  background: #E2000F;
   padding: 50px 30px;
   color: #fff;
-  border: 2px solid #cc3333;
+  border: 2px solid #E2000F;
   transition: 0.3s;
 }
 
@@ -1632,8 +1632,8 @@ ul.rating li span.unrated {
   border: 2px solid #79a1bb;
 }
 .pricing-2.theme-1 .pricing-card {
-  background: #cc3333;
-  border: 2px solid #cc3333;
+  background: #E2000F;
+  border: 2px solid #E2000F;
 }
 .pricing-2 .pricing-card.active { 
   background: #fff;
@@ -1643,27 +1643,27 @@ ul.rating li span.unrated {
   margin-top: 10px;
 }
 .pricing-2.theme-1 .custom-btn-alt {
-  color: #cc3333;
+  color: #E2000F;
 }
 .pricing-2 .custom-btn-alt:hover {
   background: #79a1bb;
 }
 .pricing-2.theme-1 .custom-btn-alt:hover {
-  background: #cc3333;
+  background: #E2000F;
 }
 .pricing-2 .pricing-card:hover .custom-btn-alt {
   background: #79a1bb;
   color: #fff;
 }
 .pricing-2.theme-1 .pricing-card:hover .custom-btn-alt {
-  background: #cc3333;
+  background: #E2000F;
   color: #fff;
 }
 .pricing-2 .pricing-card.active .custom-btn-alt { 
   background: #79a1bb;
 }
 .pricing-2.theme-1 .pricing-card.active .custom-btn-alt { 
-  background: #cc3333;
+  background: #E2000F;
 }
 .plan-name {
   font-size: 20px;
@@ -1674,7 +1674,7 @@ ul.rating li span.unrated {
   color: #79a1bb;
 }
 .pricing-2.theme-1 .sm-title {
-  color: #cc3333;
+  color: #E2000F;
 }
 ul.future-list {
   padding: 10px 0;
@@ -1715,7 +1715,7 @@ ul.future-list li {
 }
 
 .pricing-card:hover .custom-btn-alt {
-  background: #cc3333;
+  background: #E2000F;
   color: #fff;
 }
 
@@ -1724,7 +1724,7 @@ ul.future-list li {
 }
 
 .pricing-card.active .custom-btn-alt {
-  background: #cc3333;
+  background: #E2000F;
   color: #fff;
 }
 
@@ -1759,7 +1759,7 @@ ul.future-list li {
 }
 
 .review-pagination span.swiper-pagination-bullet-active-main {
-  background-color: #cc3333;
+  background-color: #E2000F;
   width: 8px;
   height: 8px;
 }
@@ -1807,7 +1807,7 @@ span.swiper-pagination-bullet {
 
 
 .delivery-text {
-  color: #cc3333;
+  color: #E2000F;
 }
 
 /* ===================================================
@@ -1922,7 +1922,7 @@ span.swiper-pagination-bullet {
 }
 
 .remove-icon:hover {
-  color: #cc3333;
+  color: #E2000F;
 }
 .header-2 .remove-icon:hover {
   color: #79a1bb;
@@ -1987,7 +1987,7 @@ ul.right-social-ul li {
 }
 
 .share-link:hover {
-  color: #cc3333;
+  color: #E2000F;
   text-decoration: revert;
 }
 
@@ -2162,7 +2162,7 @@ ul.about-ul li {
 }
 
 .project-title:hover {
-  color: #cc3333;
+  color: #E2000F;
 }
 
 ul.cat-menu {
@@ -2422,7 +2422,7 @@ img.app-tow {
 }
 
 .delivery-text {
-  color: #cc3333;
+  color: #E2000F;
 }
 /* ====================================================about page ================== */
 
@@ -2447,7 +2447,7 @@ img.app-tow {
   margin-top: 5px;
 }
 .menu-product .cat-menu-li.mixitup-control-active {
-  border-color: #cc3333;
+  border-color: #E2000F;
 }
 .page-ban-content {
   text-align: center;
@@ -2460,7 +2460,7 @@ img.app-tow {
   transition: 0.3s;
 }
 .breadcrumb-list a:hover {
-  color: #cc3333;
+  color: #E2000F;
 }
 .breadcrumb-list span {
   color: #fff;
@@ -2572,13 +2572,13 @@ img.app-tow {
 }
 
 .member-name:hover {
-  color: #cc3333;
+  color: #E2000F;
 }
 .team-details-card .member-name:hover {
   color: #292929;
 }
 .team-card:hover::after {
-  background: #cc3333;
+  background: #E2000F;
 }
 
 /* ============availability===== */
@@ -2647,7 +2647,7 @@ img.app-tow {
 .review {
   padding: 50px;
   box-shadow: 0px 0px 13px 1px #ddd;
-  border-left: 2px solid #cc3333;
+  border-left: 2px solid #E2000F;
   height: 100%;
   padding-top: 25px;
 }
@@ -2701,12 +2701,12 @@ img.app-tow {
   font-size: 17px;
   text-decoration: revert;
   font-weight: 400;
-  color: #cc3333;
+  color: #E2000F;
   transition: 0.3s;
 }
 
 .service-card:hover {
-  background: #cc3333;
+  background: #E2000F;
   transform: translateY(-10px);
 }
 
@@ -2759,7 +2759,7 @@ ul.service-list li {
 }
 
 .service-link:hover {
-  color: #cc3333;
+  color: #E2000F;
 }
 
 .title-name {
@@ -2810,7 +2810,7 @@ ul.service-list li {
 }
 
 .arrow-btn:hover {
-  background: #cc3333;
+  background: #E2000F;
 }
 
 .arrow-btn::after {
@@ -2887,7 +2887,7 @@ ul.service-list li {
 }
 
 .project-title:hover {
-  color: #cc3333;
+  color: #E2000F;
 }
 
 tbody.table-body-text tr td {
@@ -2953,12 +2953,12 @@ ul.future-list li {
 }
 
 .pricing-card:hover a.custom-btn-alt {
-  background: #cc3333;
+  background: #E2000F;
   color: #fff;
 }
 
 .pricing-card.active a.custom-btn-alt {
-  background: #cc3333;
+  background: #E2000F;
   color: #fff;
 }
 
@@ -3018,7 +3018,7 @@ ul.cat-menu {
 
 .all-product-1 li.cat-menu-li.mixitup-control-active {
   border-bottom: 0;
-  color: #cc3333;
+  color: #E2000F;
 }
 .mb-40 {
   margin-bottom: 40px;
@@ -3158,7 +3158,7 @@ ul.rating li span.unrated {
 }
 
 .post-title:hover {
-  color: #cc3333;
+  color: #E2000F;
 }
 
 .post-details {
@@ -3201,7 +3201,7 @@ ul.rating li span.unrated {
 }
 
 .recent-post-title:hover {
-  color: #cc3333;
+  color: #E2000F;
 }
 
 ul.post-date-time {
@@ -3301,7 +3301,7 @@ ul.tags-ul {
 }
 
 .tag-link:hover {
-  background: #cc3333;
+  background: #E2000F;
   color: #fff;
 }
 
@@ -3312,7 +3312,7 @@ ul.tags-ul {
   content: "";
   height: 2px;
   width: 50px;
-  background: #cc3333;
+  background: #E2000F;
   display: block;
 }
 
@@ -3326,7 +3326,7 @@ ul.tags-ul {
 
 .reply-btn:hover {
   color: #fff;
-  background: #cc3333;
+  background: #E2000F;
 }
 
 ul.post-list {
@@ -3388,7 +3388,7 @@ ul.post-list {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #cc3333;
+  background: #E2000F;
   color: #fff;
   cursor: pointer;
   transition: 0.3s;
@@ -3437,7 +3437,7 @@ td.cart-price {
 }
 
 .sum-price {
-  color: #cc3333;
+  color: #E2000F;
   font-weight: 600;
 }
 
@@ -3487,7 +3487,7 @@ table.info-table tbody tr {
 
 .team-sec-title:before {
   content: "";
-  border-bottom: 3px solid #cc3333;
+  border-bottom: 3px solid #E2000F;
   width: 40%;
   height: 3px;
   display: block;
@@ -3542,7 +3542,7 @@ tbody.table-body-text {
 
 .product-price p {
   padding-left: 10px;
-  color: #cc3333;
+  color: #E2000F;
   font-size: 17px;
   font-weight: 500;
 }
@@ -3554,7 +3554,7 @@ ul.info-list li {
 
 ul.info-list li p {
   padding-left: 5px;
-  color: #cc3333;
+  color: #E2000F;
   font-weight: 500;
 }
 
@@ -3588,7 +3588,7 @@ ul.info-list {
 }
 
 .share-link ul li a {
-  color: #cc3333;
+  color: #E2000F;
   transition: 0.3s;
 }
 
@@ -3631,7 +3631,7 @@ ul.info-list {
 }
 
 .delivery-text {
-  color: #cc3333;
+  color: #E2000F;
 }
 
 .table > :not(:first-child) {
@@ -3706,7 +3706,7 @@ ul.address li span {
   display: block;
 }
 .footer-content-wrapper ul li a:hover {
-  color: #cc3333;
+  color: #E2000F;
 }
 .footer-2 .footer-content-wrapper ul li a:hover {
   color: #79a1bb;
@@ -3747,7 +3747,7 @@ ul.social-ul {
 }
 
 .social-link:hover {
-  color: #cc3333;
+  color: #E2000F;
 }
 
 .last-footer {
@@ -3786,7 +3786,7 @@ ul.social-ul {
 }
 
 .footer-1 .address-info a:hover {
-  color: #cc3333;
+  color: #E2000F;
 }
 .ml-35 {
   margin-left: 35px;
@@ -3807,7 +3807,7 @@ ul.social-ul {
 }
 
 .header-right-search-phone a:hover {
-  color: #cc3333;
+  color: #E2000F;
 }
 .address-info a {
   color: #fff;
@@ -3882,7 +3882,7 @@ ul.social-ul {
   padding: 0;
 }
 .product-3.theme-1 .sm-title {
-  color: #cc3333;
+  color: #E2000F;
 }
 
 .all-product.product-3 {
@@ -3895,19 +3895,19 @@ ul.social-ul {
   color: #FBB217;
 }
 .product-3.theme-1 .cat-menu-li.mixitup-control-active span {
-  color: #cc3333;
+  color: #E2000F;
 }
 .product-3 .cat-menu-li:hover span {
   color: #FBB217;
 }
 .product-3.theme-1 .cat-menu-li:hover span {
-  color: #cc3333;
+  color: #E2000F;
 }
 .product-3 .project-title:hover {
   color: #FBB217;
 }
 .product-3.theme-1 .project-title:hover {
-  color: #cc3333;
+  color: #E2000F;
 }
 .product-3 .product-card:hover {
   margin-top: 0;
@@ -4003,7 +4003,7 @@ ul.social-ul {
   transition: 0.3s;
   opacity: 0;
   visibility: hidden;
-  border-top: 3px solid #cc3333;
+  border-top: 3px solid #E2000F;
 }
 .header-2 .header-menu .submenu {
   border-top: 3px solid #79a1bb;
@@ -4027,7 +4027,7 @@ ul.social-ul {
   margin-right: 30px;
 }
 .header-menu  li:hover > a {
-  color: #cc3333;
+  color: #E2000F;
 }
 .header-2 .header-menu  li:hover > a {
   color: #79a1bb; 
@@ -4102,7 +4102,7 @@ ul.social-ul {
 	width: 10px;
 }
 .dr-navbar-sign:hover span {
-	background-color: #cc3333;
+	background-color: #E2000F;
 }
 .header-2 .dr-navbar-sign:hover span {
 	background-color: #79a1bb;
@@ -4147,7 +4147,7 @@ ul.social-ul {
   text-transform: capitalize;
 }
 .mean-container .mean-nav ul li:hover > a {
-	color: #cc3333;
+	color: #E2000F;
   background-color: #f2f2f2;
 }
 .header-side-info-2 .mean-container .mean-nav ul li:hover > a {
@@ -4169,7 +4169,7 @@ ul.social-ul {
 }
 .mean-container .mean-nav ul li a.mean-expand:hover {
   background-color: #ebebeb;
-  color: #cc3333;
+  color: #E2000F;
 }
 .header-side-info-2 .mean-container .mean-nav ul li a.mean-expand:hover {
   color: #79a1bb;
@@ -4201,7 +4201,7 @@ ul.social-ul {
   transition: 0.3s;
 }
 .dr-sidebar-contact > a:hover {
-  color: #cc3333;
+  color: #E2000F;
 }
 .header-side-info-2 .dr-sidebar-contact > a:hover {
   color: #79a1bb;
@@ -4224,7 +4224,7 @@ ul.social-ul {
 	margin-right: 7px;
 }
 .dr-sidebar-social a:hover {
-	color: #cc3333;
+	color: #E2000F;
 	background-color: #ebebeb;
 }
 .header-menu.mean-container li.has-submenu > a::after {
@@ -4248,7 +4248,7 @@ ul.social-ul {
   font-weight: 500;
 }
 .dr-sidebar-close:hover {
-  color: #cc3333;
+  color: #E2000F;
 }
 .header-side-info-2 .dr-sidebar-close:hover {
   color: #79a1bb;
@@ -4270,7 +4270,7 @@ ul.social-ul {
   border-radius: 50%;
 }
 .dr-sidebar-btn-wrap a:hover {
-  color: #cc3333;
+  color: #E2000F;
 }
 .header-side-info-2 .dr-sidebar-btn-wrap a:hover {
   color: #79a1bb;
@@ -4355,12 +4355,12 @@ ul.social-ul {
   font-weight: 500;
 }
 .review-tab li button:hover {
-  color: #cc3333;
-  border-color: #cc3333;
+  color: #E2000F;
+  border-color: #E2000F;
 }
 .review-tab li button.active {
   border-color: #c33;
-  color: #cc3333;
+  color: #E2000F;
 }
 .btn-sec .custom-btn:not(:last-child) {
 	margin-right: 10px;
@@ -4407,7 +4407,7 @@ ul.social-ul {
   color: #292929;
 }
 .team-info a:hover {
-  color: #cc3333;
+  color: #E2000F;
 }
 .personal-info .table {
 	margin-bottom: 0;
@@ -4487,8 +4487,8 @@ ul.social-ul {
   display: inline-block;
 }
 .blog-inner-tags a:hover {
-  border-color: #cc3333;
-  background-color: #cc3333;
+  border-color: #E2000F;
+  background-color: #E2000F;
   color: #fff;
 }
 .blog-tag-label {
@@ -4528,7 +4528,7 @@ ul.social-ul {
 .sidebar-title:after {
   width: 80px;
   height: 2px;
-  background-color: #cc3333;
+  background-color: #E2000F;
   content: "";
   display: block;
   margin-top: 10px;
@@ -4571,7 +4571,7 @@ ul.social-ul {
   color: #292929;
 }
 .sidebar-post-title:hover a {
-  color: #cc3333;
+  color: #E2000F;
 }
 .sidebar-tags a {
   padding: 5px 10px;
@@ -4582,8 +4582,8 @@ ul.social-ul {
   margin-bottom: 5px;
 }
 .sidebar-tags a:hover {
-  border-color: #cc3333;
-  background-color: #cc3333;
+  border-color: #E2000F;
+  background-color: #E2000F;
   color: #fff;
 }
 .contact-form textarea {
@@ -4621,11 +4621,11 @@ ul.service-list.mt-0 {
   transition: 0.3s;
 }
 .postbox__title:hover a {
-  color: #cc3333;
+  color: #E2000F;
 }
 .tp-btn {
   font-size: 15px;
-  background-color: #cc3333;
+  background-color: #E2000F;
   display: inline-block;
   color: #fff;
   padding: 10px 30px;
@@ -4656,7 +4656,7 @@ ul.service-list.mt-0 {
 	height: 80px;
 	line-height: 80px;
 	text-align: center;
-	background-color: #cc3333;
+	background-color: #E2000F;
 	-webkit-border-radius: 50%;
 	-moz-border-radius: 50%;
 	-o-border-radius: 50%;
@@ -4699,7 +4699,7 @@ ul.service-list.mt-0 {
   display: inline-block;
   width: 50px;
   height: 50px;
-  background-color: #cc3333;
+  background-color: #E2000F;
   color: #fff;
   z-index: 1;
   line-height: 48px;
@@ -4740,14 +4740,14 @@ ul.service-list.mt-0 {
   color: #666;
 }
 .basic-pagination ul li a:hover, .basic-pagination ul li span:hover {
-  background-color: #cc3333;
+  background-color: #E2000F;
   color: #fff;
-  border-color: #cc3333;
+  border-color: #E2000F;
 }
 .basic-pagination li .current {
-  background-color: #cc3333;
+  background-color: #E2000F;
   color: #fff;
-  border-color: #cc3333;
+  border-color: #E2000F;
 }
 .footer-content-wrapper .address-info {
 	margin-bottom: 0;
@@ -4779,7 +4779,7 @@ ul.service-list.mt-0 {
   left: 3px;
 }
 .sidebar-categories li a:hover {
-  color: #cc3333;
+  color: #E2000F;
 }
 .w-100 img {
   width: 100%;
@@ -4820,7 +4820,7 @@ ul.service-list.mt-0 {
 }
 
 .shop-product-action a:hover {
-  background-color: #cc3333;
+  background-color: #E2000F;
   color: #fff;
 }
 .shop-product-img:hover .shop-product-action {
@@ -4855,7 +4855,7 @@ ul.service-list.mt-0 {
   padding-bottom: 10px;
 }
 .shop-product-title:hover a {
-  color: #cc3333;
+  color: #E2000F;
 }
 .shop-product-img img {
   transition: 0.4s;
@@ -4938,7 +4938,7 @@ ul.service-list.mt-0 {
 }
 .price-filter-wrap .price-filter .noUi-connect {
   background-color: #f2f2f2;
-  background: #cc3333;
+  background: #E2000F;
 }
 .price-filter-wrap .price-filter .noUi-handle {
   width: 20px;
@@ -4958,7 +4958,7 @@ ul.service-list.mt-0 {
   transition: 0.3s;
 }
 .price-filter-wrap button:hover {
-  background-color: #cc3333;
+  background-color: #E2000F;
   color: #fff;
 }
 .price-filter-wrap .price-filter .noUi-handle:before, .price-filter-wrap .price-filter .noUi-handle:after {
@@ -5423,7 +5423,7 @@ Update Css For Home 4 & Home 5
   position: absolute;
   top: 0;
   height: 3px;
-  background-color: #cc3333;
+  background-color: #E2000F;
   content: "";
   display: inline-block;
   width: 0%;
